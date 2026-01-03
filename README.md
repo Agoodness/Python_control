@@ -12,7 +12,7 @@ including modeling, time-domain analysis, and simulation using Python.
 - Transfer functions
 - State-space models
 - Time response (step, impulse)
-- Stability analysis
+- Stability analysist
 
 ## Setup
 ```bash
